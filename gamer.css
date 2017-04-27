@@ -1,5 +1,18 @@
 h1{
-  color: purple;
+  color: white;
   text-align: center;
-  
+
+}
+h2{
+  color: blue;
+}
+h3{
+  color: red;
+}
+p{
+  color: red;
+  text-align: center;
+}
+body{
+  background-image: url("http://www.aii.unimelb.edu.au/sites/default/files/Australia-flag_0.jpg");
 }
